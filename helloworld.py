@@ -1,2 +1,1 @@
-def h:
-    print("Hello from humaira >>^._.^<<")
+fashdlkfajslkdfjklajdlkfaj
