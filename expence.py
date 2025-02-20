@@ -32,10 +32,14 @@ class ButtonApp:
         
     def button3_action(self):
 <<<<<<< HEAD
+<<<<<<< HEAD
         print("ello from mahd")
 =======
         print("Hello World From MahPooda")
 >>>>>>> 356ad6c4ad8d6236de9158aa08aa897c5bc03be2
+=======
+        print("Hello World From MahLooda")
+>>>>>>> dc3278ea8bfcdd599c51720ee209c9584231da65
 
 # Create the main window
 root = tk.Tk()
