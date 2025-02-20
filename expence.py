@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-=======
 
-
->>>>>>> cc10d9d4d5f83595af3ceaba7a923af14eb7987f
 import tkinter as tk
 
 class ButtonApp:
@@ -24,22 +20,19 @@ class ButtonApp:
         print("Hello World From Saleem")
         
     def button2_action(self):
-<<<<<<< HEAD
+
         print("hello from h")
-=======
+
         print("Hello World From Humaira")
->>>>>>> cc10d9d4d5f83595af3ceaba7a923af14eb7987f
+
         
     def button3_action(self):
-<<<<<<< HEAD
-<<<<<<< HEAD
+
         print("ello from mahd")
-=======
+
         print("Hello World From MahPooda")
->>>>>>> 356ad6c4ad8d6236de9158aa08aa897c5bc03be2
-=======
+
         print("Hello World From MahLooda")
->>>>>>> dc3278ea8bfcdd599c51720ee209c9584231da65
 
 # Create the main window
 root = tk.Tk()
