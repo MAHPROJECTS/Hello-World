@@ -21,7 +21,7 @@ class ButtonApp:
         print("Hello World From Saleem")
         
     def button2_action(self):
-        print("Hello World From Humaira")
+        print("Hello World From HUNKY")
         
     def button3_action(self):
         print("Hello World From MahLooda")
