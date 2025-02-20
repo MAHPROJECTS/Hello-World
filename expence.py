@@ -1,5 +1,3 @@
-
-=======
 import tkinter as tk
 
 class ButtonApp:
@@ -24,7 +22,7 @@ class ButtonApp:
         print("hello from humaira")
         
     def button3_action(self):
-        print("Button 3 was clicked")
+        print("ello from mahd")
 
 # Create the main window
 root = tk.Tk()
@@ -34,4 +32,3 @@ app = ButtonApp(root)
 
 # Start the Tkinter event loop
 root.mainloop()
->>>>>>> 02f0b460fd9cf0bd1195905e65a4a1d73b42c530
