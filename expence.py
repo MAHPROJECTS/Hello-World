@@ -18,7 +18,7 @@ class ButtonApp:
         self.button3.pack(pady=10)
         
     def button1_action(self):
-        print("Button 1 was clicked")
+        print("Hello World From Saleem")
         
     def button2_action(self):
         print("hello from humaira")
